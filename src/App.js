@@ -15,9 +15,12 @@ const Header = styled('header')({
   backgroundColor: '#fff',
   boxShadow: '0 0.125rem 0 0 rgba(7,7,33,.15)',
   color: '#003082',
+  display: 'flex',
+  justifyContent: 'center',
 })
 
 const HeaderContent = styled('div')({
+  flex: 1,
   height: '3.75rem',
   maxWidth: '75rem',
   marginLeft: '3rem',
