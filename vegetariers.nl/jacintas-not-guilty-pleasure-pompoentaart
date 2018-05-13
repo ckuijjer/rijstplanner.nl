@@ -1,0 +1,241 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="nl">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="initial-scale=1.0,maximum-scale=1.0">
+        <meta name="viewport" content="width=device-width">
+		<title>Jacinta's (Not!) guilty pleasure pompoentaart | Vegetariersbond</title>
+		<meta name="content-language" 	content="nl">
+		<meta name="description" 		content="">
+		<meta name="keywords" 			content="Array">
+		<meta name="generator"			content="Site-C">
+		<meta name="author"				content="Vegetariersbond">
+		<meta name="robots"				content="index, follow">        
+		
+		
+		<link rel="shortcut icon" 		type="image/x-icon" 	href="https://www.vegetariers.nl/serverspecific/default/images/Template/favicon.ico">
+        <link href="//fonts.googleapis.com/css?family=Magra:400,700" rel="stylesheet" type="text/css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+		<link rel="stylesheet" type="text/css" href="https://www.vegetariers.nl/serverspecific/default/cache/css/https_be5fdc11e0a383e7c6cf66b9a68899ec.css" media="all">
+<script type="text/javascript" src="https://www.vegetariers.nl/serverspecific/default/cache/js/32095d6cce4db2d0cedeb7933ca74e84.js"></script>
+<script type="text/javascript">function openGoogleMaps() {
+					//new Window({id: 'googlemaps', className: 'guiWindow', title: 'Restaurants', width: 900, height: 600, resizable: false, closable: true, minimizable: false, maximizable: false, draggable: false, showEffect: Element.show, hideEffect: Element.hide, destroyOnClose: true});
+				
+					//Windows.getWindow('googlemaps').setHTMLContent('<img width="32" height="32" src="https://www.vegetariers.nl/serverspecific/default/images/Template/loading.gif" style="margin:200px 0 0 434px;">');
+					//Windows.getWindow('googlemaps').showCenter(true);
+			
+					//var ajax = new Ajax.Updater('googlemaps_content', 'https://www.vegetariers.nl/restaurants-popup', {method: 'get', evalScripts: true});
+					
+					
+					new Window({id: 'googlemaps', className: 'guiWindow', url: 'https://www.vegetariers.nl/restaurants-popup', title: 'Restaurants', width: 900, height: 600, resizable: false, closable: true, minimizable: false, maximizable: false, draggable: false, showEffect: Element.show, hideEffect: Element.hide, destroyOnClose: true});
+					Windows.getWindow('googlemaps').showCenter(true);
+				};
+				/* <![CDATA[ */ var GUIPACK_WS_ROOT = 'https://www.vegetariers.nl/includes/guiPack/';/* ]]> *//* <![CDATA[ */GuiPack.GuiToolTip.setOptions({width: 300});/* ]]> */var _gaq = _gaq || [];
+				   _gaq.push(['_setAccount', 'UA-4228379-1']);_gaq.push(['_trackPageview']);(function() {
+					var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+					ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+					var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+				  })();</script>
+        <script type="text/javascript" src="https://maps.google.nl/maps/api/js?sensor=false"></script>
+        <script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script>
+		<script type="text/javascript">stLight.options({publisher:'d0ae6669-45df-411f-bc5d-9ad66cd3255e'});</script>
+	</head>
+	<body class="cmsBody">
+    	<!--[if lt IE 7]> <div style=' clear:both;height:59px;width:820px;padding:0 0 0 15px;position:relative;'> <a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode"><img src="http://storage.ie6countdown.com/assets/100/images/banners/warning_bar_0005_dutch.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."></a></div> <![endif]-->  
+	        	
+    	<div id="print_logo"><img width="317" height="96" src="https://www.vegetariers.nl/serverspecific/default/images/Template/print_logo.gif" alt="Print Logo Vegetariersbond"></div>
+    
+		<div id="outer">
+			
+            <div id="header">
+            	<div class="menu_container">
+                    <input type="checkbox" id="menu_switch" class="hidden_checkbox">
+                    <div class="menu_top">
+                        <label for="menu_switch" class="menu_button">
+                            <span class="menu-bar"></span>
+                            <span class="menu-bar"></span>
+                            <span class="menu-bar"></span>
+                        </label>
+                        <a href="/" title="Vegetariersbond"><img class="responsive_header_logo" src="https://www.vegetariers.nl/serverspecific/default/cache/img/b7ba12e24fa999d5350eff0c39d3d0951577fe82/logo_responsive.png" alt="Vegetariersbond" width="198" height="60"></a>
+                    </div>
+                    <div id="menu"><ul><li><a href="https://www.vegetariers.nl/">Home</a></li><li class="selected"><a href="https://www.vegetariers.nl/lekker">Lekker</a></li><li class="hasSubmenu"><ul class="submenu"><li><a 
+										href="https://www.vegetariers.nl/lekker/kooktips"
+										
+										>Kooktips</a></li><li><a 
+										href="https://www.vegetariers.nl/lekker/30-dagen-vegetarisch"
+										
+										>30 dagen vegetarisch</a></li>
+								<li class="selected">
+									<a 
+										href="https://www.vegetariers.nl/lekker/recepten">Recepten</a></li><li><a 
+										href="https://www.vegetariers.nl/lekker/restaurants"
+										
+										>Gastvrij Restaurants</a></li><li><a 
+										href="https://www.vegetariers.nl/lekker/events"
+										
+										>Evenementen</a></li><li><a 
+										href="https://www.vegetariers.nl/lekker/webshop"
+										
+										>Webshop</a></li><li><a 
+										href="https://www.vegetariers.nl/lekker/magazine"
+										
+										>Magazine</a></li></ul></li><li><a href="https://www.vegetariers.nl/gezond">Gezond</a></li><li><a href="https://www.vegetariers.nl/bewust">Bewust</a></li><li><a href="https://www.vegetariers.nl/organisatie">Organisatie</a></li></ul><form name="SimpleSearchViewForm" class="SimpleSearchViewForm" method="get" action="https://www.vegetariers.nl/zoeken">
+				<div class="SimpleSearchView">	
+					<input type="text" name="q" class="SimpleSearchViewInput" value="Zoeken op trefwoord" onFocus="if($F(this) == 'Zoeken op trefwoord'){$(this).addClassName('SimpleSearchViewInputFocus').value='';}" onBlur="if($F(this) == ''){$(this).removeClassName('SimpleSearchViewInputFocus').value='Zoeken op trefwoord';}">
+					<input type="hidden" name="module" value="search">
+					<input type="hidden" name="action" value="search">
+					<input type="submit" value="Zoeken" class="SimpleSearchViewSubmit">
+				</div>
+			</form></div>
+                </div>
+            	<div id="logo_bg">
+					<div id="logo"><a href="/" title="Vegetariersbond"><img src="https://www.vegetariers.nl/serverspecific/default/cache/img/4e57b1482d9a23b7d3e5b4719df572de0685c4fb/nvb-de_nederlandse_vegetariers_bond.png" alt="Vegetariersbond" width="317" height="96"></a></div>                   
+                </div>				
+            	<div id="section_image"><div id="guiSlideShow_r5af80903e37a9" class="guiSlideShow"><ul id="guiSlideShowTabs_r5af80903e37a9" class="guiSlideShowTabs"><li><a href="javascript:void(0);" onClick="GuiPack.GuiSlideShow['r5af80903e37a9'].select(0);">1</a></li><li><a href="javascript:void(0);" onClick="GuiPack.GuiSlideShow['r5af80903e37a9'].select(1);">2</a></li><li><a href="javascript:void(0);" onClick="GuiPack.GuiSlideShow['r5af80903e37a9'].select(2);">3</a></li><li><a href="javascript:void(0);" onClick="GuiPack.GuiSlideShow['r5af80903e37a9'].select(3);">4</a></li><li><a href="javascript:void(0);" onClick="GuiPack.GuiSlideShow['r5af80903e37a9'].select(4);">5</a></li><li><a href="javascript:void(0);" onClick="GuiPack.GuiSlideShow['r5af80903e37a9'].select(5);">6</a></li><li><a href="javascript:void(0);" onClick="GuiPack.GuiSlideShow['r5af80903e37a9'].select(6);">7</a></li></ul><ul id="guiSlideShowPanels_r5af80903e37a9" class="guiSlideShowPanels"><li style="display:none;"><img src="https://www.vegetariers.nl/serverspecific/default/cache/img/81fde8a2b60919ee1e6eb2b4c53402f22e3a82fc/AbaLangsteVegetarischeTafel2016-.jpg" alt="Jacinta's (Not!) guilty pleasure pompoentaart" width="980" height="333"></li><li style="display:none;"><img src="https://www.vegetariers.nl/serverspecific/default/cache/img/79f12d9b6f20519d0ed75aa4c592ad67029d1ef0/abgierst.jpg" alt="Jacinta's (Not!) guilty pleasure pompoentaart" width="980" height="333"></li><li style="display:none;"><img src="https://www.vegetariers.nl/serverspecific/default/cache/img/cc9729d1c9e2b9231ced8c0d89501fe6c5d16601/aLangsteVegetarischeTafel2016.jpg" alt="Jacinta's (Not!) guilty pleasure pompoentaart" width="980" height="333"></li><li style="display:none;"><img src="https://www.vegetariers.nl/serverspecific/default/cache/img/67bb87f1b82f78300e4e298b3c3457b935418951/bgesmoordewitlof.jpg" alt="Jacinta's (Not!) guilty pleasure pompoentaart" width="980" height="333"></li><li style="display:none;"><img src="https://www.vegetariers.nl/serverspecific/default/cache/img/76157b1c05ef288f330857d490cef35b2bc57e91/Grillen06-bewerkt--bewerkt-.jpg" alt="Jacinta's (Not!) guilty pleasure pompoentaart" width="980" height="333"></li><li style="display:none;"><img src="https://www.vegetariers.nl/serverspecific/default/cache/img/43699857f779a8ac8d0d839f9866ad9698f7c7f6/iopmaak-bord.jpg" alt="Jacinta's (Not!) guilty pleasure pompoentaart" width="980" height="333"></li><li style="display:none;"><img src="https://www.vegetariers.nl/serverspecific/default/cache/img/06a541722e5b15526291eea75bf8f7d96207c6f8/zzzeIMG_4063(Medium)-bewerkt-.jpg" alt="Jacinta's (Not!) guilty pleasure pompoentaart" width="980" height="333"></li></ul><div id="guiSlideShowButtonPrevious_r5af80903e37a9" class="guiSlideShowButtonPrevious" style="display:none;"><a href="javascript:void(0);" onClick="GuiPack.GuiSlideShow['r5af80903e37a9'].previous();">&lt;</a></div><div id="guiSlideShowButtonNext_r5af80903e37a9" class="guiSlideShowButtonNext" style="display:none;"><a href="javascript:void(0);" onClick="GuiPack.GuiSlideShow['r5af80903e37a9'].next();">&gt;</a></div></div><script type="text/javascript">/* <![CDATA[ */GuiPack.GuiSlideShow['r5af80903e37a9'] = new GuiPack.GuiSlideShow.__Element('r5af80903e37a9', {activeElement: 0, pauzeOnHover: true, interval: 5, duration: 1.00, showEffect: Effect.Appear, hideEffect: Effect.Fade});/* ]]> */</script></div>
+                <div class="sharethis">
+        <span class="st_email"></span>
+        <span class="st_twitter"></span>
+        <span class="st_facebook"></span>
+        <span class="st_linkedin"></span>
+        <span class="st_nujij"></span>
+    </div>
+			</div>
+            
+			<div id="left">
+            	<ul id="submenu"><li><a 
+										href="https://www.vegetariers.nl/lekker/kooktips"
+										
+										>Kooktips</a></li><li><a 
+										href="https://www.vegetariers.nl/lekker/30-dagen-vegetarisch"
+										
+										>30 dagen vegetarisch</a></li>
+								<li class="selected">
+									<a 
+										href="https://www.vegetariers.nl/lekker/recepten">Recepten</a></li><li><a 
+										href="https://www.vegetariers.nl/lekker/restaurants"
+										
+										>Gastvrij Restaurants</a></li><li><a 
+										href="https://www.vegetariers.nl/lekker/events"
+										
+										>Evenementen</a></li><li><a 
+										href="https://www.vegetariers.nl/lekker/webshop"
+										
+										>Webshop</a></li><li><a 
+										href="https://www.vegetariers.nl/lekker/magazine"
+										
+										>Magazine</a></li></ul>
+                <a href="https://www.vegetariers.nl/organisatie/help-mee"><img width="180" height="33" src="/serverspecific/default/images/Image/test/button(1)-bewerkt-.png" class="module_banner" title="" alt=""></a>
+                <strong>Over Ons</strong><br>
+De Vegetari&euml;rsbond wil iedereen laten proeven van de geheimen van de vegetarische keuken. Wij helpen mensen en bedrijven bij hun keuze voor lekker, gezond en bewust vegetarisch eten.<br>
+Dit doen we door het geven van tips en informatie en het organiseren van evenementen. Zo laten we duizenden mensen proeven hoe lekker vegetarisch eten kan zijn.<br>
+<strong>Zo dragen we bij aan een betere wereld. Doe je mee?</strong><br>
+<br>
+<a href="https://www.vegetariers.nl/organisatie">Lees meer over ons en doe mee</a><br>
+<br>
+<a href="https://www.facebook.com/Vegetariersbond" onClick="window.open(this.href);return false;"><img height="50" width="50" alt="Vegetariërsbond Facebook" src="https://www.vegetariers.nl/serverspecific/default/cache/img/92d3d52ebf738c0d8aefdda95efae0f666cae20c/facebook.png" style="width: 50px; height: 50px; margin-left: 2px; margin-right: 2px;"></a><a href="https://twitter.com/vegetariersbond" onClick="window.open(this.href);return false;"><img height="50" width="50" alt="Vegetariërsbond Twitter" src="https://www.vegetariers.nl/serverspecific/default/cache/img/70262f014e71b97c8749239bcf3d4795a2e84373/twitter.png" style="width: 50px; height: 50px; margin-right: 2px; margin-left: 2px;"></a><a href="https://instagram.com/vegetariersbond/" onClick="window.open(this.href);return false;"><img height="50" width="50" alt="" src="https://www.vegetariers.nl/serverspecific/default/cache/img/5d0f02e28ea53587f92c9a1647706bfe99acc4aa/instagram-logo-50x50.png" style="width: 50px; height: 50px; margin-left: 2px; margin-right: 2px;"></a><br>
+
+                <a href="https://www.vegetariers.nl/lekker/30-dagen-vegetarisch"><img width="180" height="143" src="/serverspecific/default/images/Image/30dagenvegetarisch/30dagenvegetarischlogo-bewerkt_2-.jpg" class="module_banner" title="30 dagen vegetarisch" alt="30 dagen vegetarisch"></a>  
+            </div>
+
+			<div id="centrecontent">
+				<div class="SectionContent" id="SectionContent"><div class="BreadCrumbContent" itemprop="breadcrumb"><ul><li><a href="https://www.vegetariers.nl/lekker">Lekker</a></li><li>&nbsp;&rsaquo;&nbsp;</li><li><a href="https://www.vegetariers.nl/lekker/recepten">Recepten</a></li><li>&nbsp;&rsaquo;&nbsp;</li><li><a href="https://www.vegetariers.nl/lekker/recepten/jacintas-not-guilty-pleasure-pompoentaart">Jacinta's (Not!) guilty pleasure pompoentaart</a></li></ul></div><h1>Jacinta's (Not!) guilty pleasure pompoentaart</h1><div class="recipe"><h2 class="pink"> </h2><div class="ParagraphContent intro"><img height="227"  src="https://www.vegetariers.nl/serverspecific/default/cache/img/c0ca54ab8afe86d368053e1f6399c5bc933b2526/Pompoentaart-bewerkt_1-.jpg" width="341" alt="Jacinta's (Not!) guilty pleasure pompoentaart"><strong>Zoek je nog een Not Guilty Pleasure? Maak Jacinta&#39;s Caribische pompoentaart! Suikervrij, lactosevrij en 100% diervriendelijk. Ook lekker bij een feestelijk ontbijt.</strong><br>
+<br>
+Foodinspirator Jacinta: <em>&quot;Deze taart is een Curacaos familierecept uit mijn jeugd. Het oorspronkelijke recept is met heel veel roomboter, eieren en suiker. Omdat ik het zelf zo&#39;n heerlijke taart vind, was het een uitdaging n&eacute;t zo&#39;n finger-licking-lekkere taart te verzinnen waar je je ook nog eens zonder schuldgevoel je buikje rond aan mag eten!&quot;</em><br>
+<br>
+<strong><span style="color:#800080;">100 % suikervrij &amp; gezond</span></strong><br>
+<br>
+<br>
+<br>
+<strong>Wil je de uitdaging aangaan? Kies ook voor Jacinta&#39;s 100% Happy Healthy (100% puur &amp; gezond), roze aangeduid in de ingredi&euml;ntenlijst.</strong><br>
+<br>
+<h3>
+	<strong>Vegacademy kooktip 1</strong></h3>
+* Bakmeel-alternatieven<br>
+Heb je een glutenallergie, of wil je experimenteren met andere, lekkere soorten meel? Probeer dan eens:<br>
+- rijstmeel (glutenvrij)<br>
+- ma&iuml;smeel (glutenvrij)<br>
+- luxe en lekkerst: 1/3 amandelmeel en 2/3 rijstmeel (glutenvrij)<br>
+<br>
+<h3>
+	<strong>Vegacademy kooktip 2</strong></h3>
+Jacinta: <em>&quot;Maak je eigen supertaart door een mooie mix te maken van bijvoorbeeld vijgen, rozijnen, gedroogde abrikozen, dadels, pecannoten, gedroogde cranberries, pruimen... Een makkelijk alternatief is tutti frutti.&quot;</em></div><div class="ParagraphContent"><div class="column-left ingredients"><h2> Ingredi&euml;nten</h2><p>Voor 5 personen</p>&bull; 1 oranje pompoen of 1 butternut pompoen<br>
+&bull; 2 eetl. azijn + 2 eetl. wijnsteenzuur bakpoeder<br>
+&bull; 4 eetl. gebroken lijnzaad<br>
+&bull; 500 gr zelfrijzend bakmeel <span style="color:#800080;"><strong>of speltmeel of kijk hierboven bij *bakmeel-alternatieven</strong></span><br>
+&bull; 2 zakjes vanillesuiker,<strong><span style="color:#ee82ee;"> </span><span style="color:#800080;">of paar druppels vanille-essence</span></strong><br>
+&bull; snufje zout<br>
+&bull; 250 gr gehakte zuidvruchten (of tutti frutti)<br>
+&bull; 250 ml soja-, amandel- of rijstmelk<br>
+&bull; 50 ml zonnebloemolie <strong><span style="color:#800080;">of 100%Puur&amp;Gezond!: kokosvet</span></strong><br>
+&bull; 250 gr bruine basterdsuiker<strong><span style="color:#800080;"> of agavesiroop of rijststroop of combi rijststroop/appelstroop</span></strong><br>
+&bull; 6 eetl. koekkruiden (zoveel? Ja! Gewoon lekker doen, je krijgt geen spijt!)</div><div class="column-right preparation"><h2> Bereiding</h2><p>Bereidingstijd: tot 20 minuten</p>Verwarm de oven voor op 180 &ordm;C.<br>
+<br>
+Snijd de pompoen doormidden (schillen hoeft niet), verwijder de pitten en het hooi en snijd hem in stukken. Kook de pompoen in een laagje water in 5-10 minuten zacht. Giet het water af en pureer de pompoen met een aardappelstamper.<br>
+<br>
+Roer in een kom de overige ingredi&euml;nten, samen met de zuidvruchten en de pompoenpuree tot een stevig beslag. Stort het beslag in een siliconen bakvorm en bak de taart in ongeveer 45 minuten gaar in de op 180 &ordm;C voorverwarmde oven.</div></div><div class="ParagraphContent"><ul>
+	<li class="clear-float">
+		&nbsp;</li>
+</ul>
+<a href="http://webshop.vegetariers.nl/kookboeken/karakter-uitgevers-de-snelle-vegetarier" onclick="window.open(this.href);return false;"><img alt="" class="fckImageLeft" height="144" src="https://www.vegetariers.nl/serverspecific/default/cache/img/a3f11e10fdc938e80aedfc232a998107d4cf363a/JacintaBokma.jpg" style="width: 184px; height: 144px; float: left;" width="184"></a><strong><a href="http://webshop.vegetariers.nl/kookboeken/karakter-uitgevers-de-snelle-vegetarier" onclick="window.open(this.href);return false;"><img alt="" height="160" src="https://www.vegetariers.nl/serverspecific/default/cache/img/e180bfaecba5b1174740600544bd1e78e8f3ac20/PPWebDeSnelleVegetarier3D.jpg" style="width: 150px; height: 160px; float: right;" width="150"></a></strong> Jacinta Bokma is lekkerbek en foodinspirator voor een mooiere wereld: recepten die goed zijn voor jezelf, de dieren en de planeet. Vind meer recepten in haar<strong> <a href="https://vegetariersbond.vega-life.nl/kookboeken/karakter-uitgevers-de-snelle-vegetarier">kookboeken De Snelle Vegetari&euml;r</a> </strong>en Puur Plantaardig/De Dunne Vegan<br>
+beide Gourmand World Cookbook Award winnaar<strong> &gt;&gt; Koop in onze webshop!</strong><br>
+<br>
+<br>
+Like en volg <a href="http://www.facebook.com/DeSnelleVegetarier" onclick="window.open(this.href);return false;"><u>Jacinta en De Snelle Vegetari&euml;r op Facebook</u></a><br>
+en @jacintabokma <a href="http://instagram.com/jacintabokma" onclick="window.open(this.href);return false;"><u>op Instagram</u></a><h2 class="pink"> Filmpje: Jacinta's 3-minuten brownie</h2><iframe width="560" height="315" src="https://www.youtube.com/embed/xtJl6p1Eb8Q?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div><h2 id="nvb_recipes_koen">Kijk ook eens naar</h2><ul class="linked recipes"><li><a href="https://www.vegetariers.nl/lekker/recepten/1-minuut-wondermayo-en-aioli"><span class="recipe_photo" style="background-image: url(https://www.vegetariers.nl/serverspecific/default/modules/nvb_recipes/images/filemanager/Wondermayonaise.jpg);"></span>1-minuut wondermayo en aïoli</a></li><li><a href="https://www.vegetariers.nl/lekker/recepten/happy-healthy-frambozensmoothie"><span class="recipe_photo" style="background-image: url(https://www.vegetariers.nl/serverspecific/default/modules/nvb_recipes/images/filemanager/Frambozensmoothie.jpg);"></span>Happy Healthy Frambozensmoothie</a></li><li><a href="https://www.vegetariers.nl/lekker/recepten/romige-pastinaaksoep"><span class="recipe_photo" style="background-image: url(https://www.vegetariers.nl/serverspecific/default/modules/nvb_recipes/images/filemanager/pastinaaksoep.jpg);"></span>Romige pastinaaksoep</a></li><li><a href="https://www.vegetariers.nl/lekker/recepten/2-x-recept-gegrilde-groenten-uit-de-oven"><span class="recipe_photo" style="background-image: url(https://www.vegetariers.nl/serverspecific/default/modules/nvb_recipes/images/filemanager/okgroente1-bewerkt-.jpg);"></span>2 x recept Gegrilde Groenten uit de Oven</a></li><li><a href="https://www.vegetariers.nl/lekker/recepten/geroosterde-hollandse-knolgroente"><span class="recipe_photo" style="background-image: url(https://www.vegetariers.nl/serverspecific/default/modules/nvb_recipes/images/filemanager/Ovengegrildegroentenherfst-bewerkt-.jpg);"></span>Geroosterde Hollandse knolgroente</a></li><li><a href="https://www.vegetariers.nl/lekker/recepten/hartige-sint--piet-buideltjes"><span class="recipe_photo" style="background-image: url(https://www.vegetariers.nl/serverspecific/default/modules/nvb_recipes/images/filemanager/Pietenzakjes1-bewerkt-.jpg);"></span>Hartige Sint & Piet buideltjes</a></li><li><a href="https://www.vegetariers.nl/lekker/recepten/jacintas-salade-met-watermeloen-en-feta"><span class="recipe_photo" style="background-image: url(https://www.vegetariers.nl/serverspecific/default/modules/nvb_recipes/images/filemanager/watermeloensalade-bewerkt-.jpg);"></span>Jacinta's salade met watermeloen en feta</a></li><li><a href="https://www.vegetariers.nl/lekker/recepten/super-spruitjessalade"><span class="recipe_photo" style="background-image: url(https://www.vegetariers.nl/serverspecific/default/modules/nvb_recipes/images/filemanager/spruitjes-salade_bycaramelMW-bewerkt-.jpg);"></span>Super spruitjessalade</a></li><li><a href="https://www.vegetariers.nl/lekker/recepten/nieuw-hollands-de-beste-hachee"><span class="recipe_photo" style="background-image: url(https://www.vegetariers.nl/serverspecific/default/modules/nvb_recipes/images/filemanager/Hacheetje-bewerkt-.jpg);"></span>Nieuw Hollands: de beste hachee</a></li><li><a href="https://www.vegetariers.nl/lekker/recepten/jacintas-new-dutch-boerenkoolstamppot"><span class="recipe_photo" style="background-image: url(https://www.vegetariers.nl/serverspecific/default/modules/nvb_recipes/images/filemanager/NewDutchieBoerenkool.jpg);"></span>Jacinta's new Dutch boerenkoolstamppot</a></li><li><a href="https://www.vegetariers.nl/lekker/recepten/crazy-tasty-curry"><span class="recipe_photo" style="background-image: url(https://www.vegetariers.nl/serverspecific/default/modules/nvb_recipes/images/filemanager/Currycrazytasty-bewerkt-.jpg);"></span>Crazy tasty curry</a></li><li><a href="https://www.vegetariers.nl/lekker/recepten/feestelijke-bb-happy-boeuf-bourguignon"><span class="recipe_photo" style="background-image: url(https://www.vegetariers.nl/serverspecific/default/modules/nvb_recipes/images/filemanager/HappyhealthyBBweb-bewerkt-.jpg);"></span>Feestelijke BB (Happy Boeuf) Bourguignon</a></li><li><a href="https://www.vegetariers.nl/lekker/recepten/groentetajine-marokkaans"><span class="recipe_photo" style="background-image: url(https://www.vegetariers.nl/serverspecific/default/modules/nvb_recipes/images/filemanager/PPWebPompoenstoofCous-bewerkt-.jpg);"></span>Groentetajine Marokkaans</a></li><li><a href="https://www.vegetariers.nl/lekker/recepten/superfood-burger"><span class="recipe_photo" style="background-image: url(https://www.vegetariers.nl/serverspecific/default/modules/nvb_recipes/images/filemanager/IMG-20161114-WA0002.jpg);"></span>Superfood burger</a></li><li><a href="https://www.vegetariers.nl/lekker/recepten/vegetarische-sate-a-la-jacinta"><span class="recipe_photo" style="background-image: url(https://www.vegetariers.nl/serverspecific/default/modules/nvb_recipes/images/filemanager/Satestokjes-bewerkt-.jpg);"></span>Vegetarische saté á la Jacinta</a></li><li><a href="https://www.vegetariers.nl/lekker/recepten/3-minuten-brownie"><span class="recipe_photo" style="background-image: url(https://www.vegetariers.nl/serverspecific/default/modules/nvb_recipes/images/filemanager/3-minutenbrownies-bewerkt-.jpg);"></span>3-minuten brownie</a></li><li><a href="https://www.vegetariers.nl/lekker/recepten/quinoa-met-venkel-en-witlof"><span class="recipe_photo" style="background-image: url(https://www.vegetariers.nl/serverspecific/default/modules/nvb_recipes/images/filemanager/DSC_04101.jpg);"></span>Quinoa met venkel en witlof</a></li><li><a href="https://www.vegetariers.nl/lekker/recepten/multi-noten-en-zadenknackebrood"><span class="recipe_photo" style="background-image: url(https://www.vegetariers.nl/serverspecific/default/images/Template/nvb_spacer.gif);"></span>Multi noten en zadenknäckebrood</a></li><li><a href="https://www.vegetariers.nl/lekker/recepten/gemakkelijke-regenboogpastei"><span class="recipe_photo" style="background-image: url(https://www.vegetariers.nl/serverspecific/default/modules/nvb_recipes/images/filemanager/annajonespastei-bewerkt-.jpg);"></span>Gemakkelijke regenboogpastei</a></li><li><a href="https://www.vegetariers.nl/lekker/recepten/salade-met-chocola-en-geitenkaas"><span class="recipe_photo" style="background-image: url(https://www.vegetariers.nl/serverspecific/default/modules/nvb_recipes/images/filemanager/SaladeChocolaGeitenkaaslowres-bewerkt-.jpg);"></span>Salade met chocola en geitenkaas</a></li><li><a href="https://www.vegetariers.nl/lekker/recepten/chili-a-la-langste-vegetarische-tafel"><span class="recipe_photo" style="background-image: url(https://www.vegetariers.nl/serverspecific/default/modules/nvb_recipes/images/filemanager/VegacademychiliLVT.jpg);"></span>Chili à la Langste Vegetarische Tafel</a></li><li><a href="https://www.vegetariers.nl/lekker/recepten/licht-pittige-nasi"><span class="recipe_photo" style="background-image: url(https://www.vegetariers.nl/serverspecific/default/modules/nvb_recipes/images/filemanager/DSCN0147.jpg);"></span>Licht pittige Nasi</a></li><li><a href="https://www.vegetariers.nl/lekker/recepten/romige-nasi"><span class="recipe_photo" style="background-image: url(https://www.vegetariers.nl/serverspecific/default/modules/nvb_recipes/images/filemanager/DSCN0183.jpg);"></span>Romige Nasi</a></li><li><a href="https://www.vegetariers.nl/lekker/recepten/groene-bami"><span class="recipe_photo" style="background-image: url(https://www.vegetariers.nl/serverspecific/default/images/Template/nvb_spacer.gif);"></span>Groene Bami</a></li><li><a href="https://www.vegetariers.nl/lekker/recepten/hemelse-3-minuten-modder"><span class="recipe_photo" style="background-image: url(https://www.vegetariers.nl/serverspecific/default/modules/nvb_recipes/images/filemanager/Hemelsemodderlowres[1]-bewerkt-.jpg);"></span>Hemelse 3-minuten Modder</a></li><li><a href="https://www.vegetariers.nl/lekker/recepten/aubergine-kokoscurry-met-teriyakisaus"><span class="recipe_photo" style="background-image: url(https://www.vegetariers.nl/serverspecific/default/modules/nvb_recipes/images/filemanager/Teriyakikokoscurry1-bewerkt-.jpg);"></span>Aubergine kokoscurry met teriyakisaus</a></li><li><a href="https://www.vegetariers.nl/lekker/recepten/supersnelle-party-pizza"><span class="recipe_photo" style="background-image: url(https://www.vegetariers.nl/serverspecific/default/modules/nvb_recipes/images/filemanager/JacintaPartyPizza-bewerkt-.jpg);"></span>Supersnelle Party Pizza</a></li><li><a href="https://www.vegetariers.nl/lekker/recepten/smokey-chili-sin-carne"><span class="recipe_photo" style="background-image: url(https://www.vegetariers.nl/serverspecific/default/modules/nvb_recipes/images/filemanager/ChiliLisanne1.jpg);"></span>Smokey Chili sin carne</a></li><li><a href="https://www.vegetariers.nl/lekker/recepten/hartige-muffins"><span class="recipe_photo" style="background-image: url(https://www.vegetariers.nl/serverspecific/default/modules/nvb_recipes/images/filemanager/muffins1-bewerkt-.jpg);"></span>Hartige muffins</a></li><li><a href="https://www.vegetariers.nl/lekker/recepten/veggielover-3-minuten-burger"><span class="recipe_photo" style="background-image: url(https://www.vegetariers.nl/serverspecific/default/modules/nvb_recipes/images/filemanager/JacintaBurger-bewerkt-.jpg);"></span>Veggielover 3-minuten burger</a></li><li><a href="https://www.vegetariers.nl/lekker/recepten/bulgur-tabouleh"><span class="recipe_photo" style="background-image: url(https://www.vegetariers.nl/serverspecific/default/modules/nvb_recipes/images/filemanager/mezzeplateau_styling-by-Lisanne-foto-by-Melanie_Lres.jpg);"></span>Bulgur Tabouleh</a></li><li><a href="https://www.vegetariers.nl/lekker/recepten/citroen-meringuetaart"><span class="recipe_photo" style="background-image: url(https://www.vegetariers.nl/serverspecific/default/modules/nvb_recipes/images/filemanager/citroenmeringetaartje2_foto-en-styling-by-MW_Lres.jpg);"></span>Citroen Meringuetaart</a></li><li><a href="https://www.vegetariers.nl/lekker/recepten/easy-feest-pastei"><span class="recipe_photo" style="background-image: url(https://www.vegetariers.nl/serverspecific/default/modules/nvb_recipes/images/filemanager/Pasteiopen.jpg);"></span>Easy feest pastei</a></li><li><a href="https://www.vegetariers.nl/lekker/recepten/zoete-paprikasoep-met-zeekraal"><span class="recipe_photo" style="background-image: url(https://www.vegetariers.nl/serverspecific/default/modules/nvb_recipes/images/filemanager/paprikasoepmetzeekraal-bewerkt-.jpg);"></span>Zoete paprikasoep met zeekraal</a></li><li><a href="https://www.vegetariers.nl/lekker/recepten/spelt-of-andere-granen-salade"><span class="recipe_photo" style="background-image: url(https://www.vegetariers.nl/serverspecific/default/modules/nvb_recipes/images/filemanager/speltsalade1-bewerkt-.jpg);"></span>Spelt of andere granen salade</a></li><li><a href="https://www.vegetariers.nl/lekker/recepten/havermout-vlokkenpapje"><span class="recipe_photo" style="background-image: url(https://www.vegetariers.nl/serverspecific/default/images/Template/nvb_spacer.gif);"></span>Havermout vlokkenpapje</a></li><li><a href="https://www.vegetariers.nl/lekker/recepten/ratatouille-met-kikkererwten-over-zachte-polenta"><span class="recipe_photo" style="background-image: url(https://www.vegetariers.nl/serverspecific/default/modules/nvb_recipes/images/filemanager/Ratatouillemetkikkererwtenoverzachtepolenta1.jpg);"></span>Ratatouille met kikkererwten over zachte polenta</a></li><li><a href="https://www.vegetariers.nl/lekker/recepten/meergranenwrap-met-falafel"><span class="recipe_photo" style="background-image: url(https://www.vegetariers.nl/serverspecific/default/modules/nvb_recipes/images/filemanager/wrapmetfallafel-bewerkt-.jpg);"></span>Meergranenwrap met falafel</a></li></ul><div style="clear:both;"></div></div><h2>
+	Help mee en ontvang Gratis Kookboek + Tijdschrift boordevol Recepten + Korting!</h2>
+Ons vernieuwde magazine <a href="index.php?sid=123">Lekker.Vegetarisch</a> heeft nu n&oacute;g meer recepten, <a href="https://www.vegetariers.nl/organisatie/help-mee" onClick="window.open(this.href);return false;">Help Mee</a> en ontvang <a href="https://www.vegetariers.nl/organisatie/help-mee" onClick="window.open(this.href);return false;">gratis</a> een prachtig kookboek t.w.v. 22,95, 4 x per jaar Lekker.Vegetarisch, 10 % korting op restaurants, een gratis voedingsscan en nog veel meer!<br>
+<br>
+<h2>
+	<a href="https://www.vegetariers.nl/lekker/30-dagen-vegetarisch">Makkelijk en Lekker: 30 dagen vega inspiratie</a></h2>
+Wil je vaker vegetarisch eten of misschien wel altijd? Wij helpen je graag op weg. <a href="https://www.vegetariers.nl/lekker/30-dagen-vegetarisch">Meld je aan</a> voor de receptennieuwsbrief 30 dagen vegetarisch en je krijgt 30 dagen lang <strong>dagelijks vega-inspiratie</strong>!<br>
+<a href="https://www.vegetariers.nl/lekker/30-dagen-vegetarisch"><img height="241" width="300" alt="" src="https://www.vegetariers.nl/serverspecific/default/cache/img/549734f99d8998094ec807a25e546c8a2a763263/30dagenvegetarischlogo.jpg" style="width: 300px; height: 241px;"></a><br>
+</div>
+			</div>
+			
+			<div id="clearfooter"><!-- ie needs this --></div>
+		</div>
+		<div id="footer" class="footer">
+			<div class="seo-payoff">
+	<a href="https://www.vegetariers.nl/lekker"><strong>Lekker</strong></a><br>
+	<a href="https://www.vegetariers.nl/lekker/kooktips">Kooktips</a><gastvij voor=""><br>
+	<a href="https://www.vegetariers.nl/lekker/restaurants">Restaurants</a><br>
+	<a href="https://www.vegetariers.nl/lekker/events">Events</a><br>
+	<a href="https://www.vegetariers.nl/lekker/magazine">Magazine</a></gastvij><br>
+	&nbsp;</div>
+<div class="seo-payoff">
+	<a href="https://www.vegetariers.nl/bewust"><strong>Bewust</strong></a><br>
+	<a href="https://www.vegetariers.nl/bewust/waarom-vegetarisch">Waarom Vegetarisch</a><br>
+	<a href="https://www.vegetariers.nl/bewust/vegakids">Vegakids </a><br>
+	<a href="https://www.vegetariers.nl/bewust/vegetarische-productranking">Productranking</a><br>
+	<a href="https://www.vegetariers.nl/bewust/product-keurmerk">Productkeurmerk</a><br>
+	<a href="https://www.vegetariers.nl/bewust/veelgestelde-vragen">Veelgestelde Vragen</a></div>
+<div class="seo-payoff">
+	<a href="https://www.vegetariers.nl/gezond"><strong>Gezond</strong></a><br>
+	<a href="https://www.vegetariers.nl/gezond/gezond-eten">Gezond Eten</a><br>
+	<a href="https://www.vegetariers.nl/gezond/download-gezond-vegetarisch-brochure">Brochure Downloaden</a><br>
+	<a href="https://www.vegetariers.nl/gezond/gezonde-vegakids">Gezonde Vegakids</a><br>
+	<a href="https://www.vegetariers.nl/gezond/gezond-eten-voor-veggiemamas-en-kinderen">Gezonde Veggieouders</a><br>
+	<a href="https://www.vegetariers.nl/gezond/veelgestelde-vragen">Veelgestelde Vragen</a></div>
+<div class="seo-payoff" style="width:130px;">
+	<a href="https://www.vegetariers.nl/organisatie"><strong>Organisatie</strong></a><br>
+	<a href="https://www.vegetariers.nl/organisatie/help-mee">Steun Ons</a><br>
+	<a href="https://www.vegetariers.nl/organisatie/nieuws/aanmelden-nieuwsbrief">Nieuwsbrief</a><br>
+	<a href="https://www.vegetariers.nl/organisatie/successen">Successen</a><br>
+	<a href="https://www.vegetariers.nl/organisatie/vacatures">Vacatures</a><br>
+	<a href="https://www.vegetariers.nl/organisatie/veelgestelde-vragen">Veelgestelde Vragen</a><br>
+	<a href="https://www.vegetariers.nl/organisatie/contact">Contact</a><br>
+	<a href="https://www.vegetariers.nl/organisatie/pers">Persinformatie</a><br>
+	&nbsp;</div>
+<div class="seo-payoff" style="width:155px;">
+	<a href="http://www.facebook.com/Vegetariersbond" onClick="window.open(this.href);return false;"><img height="50" width="50" alt="Vindt ons leuk op Facebook" src="https://www.vegetariers.nl/serverspecific/default/cache/img/92d3d52ebf738c0d8aefdda95efae0f666cae20c/facebook.png" style="width: 50px; height: 50px;"></a><a href="https://twitter.com/vegetariersbond" onClick="window.open(this.href);return false;"><img height="50" width="50" alt="Volg ons op Twitter" src="https://www.vegetariers.nl/serverspecific/default/cache/img/70262f014e71b97c8749239bcf3d4795a2e84373/twitter.png" style="width: 50px; height: 50px; margin-left: 1px; margin-right: 1px;"></a><a href="https://instagram.com/vegetariersbond/" style="text-decoration: underline;" onClick="window.open(this.href);return false;"><img height="50" width="50" alt="" src="https://www.vegetariers.nl/serverspecific/default/cache/img/5d0f02e28ea53587f92c9a1647706bfe99acc4aa/instagram-logo-50x50.png" style="width: 50px; height: 50px; margin-left: 1px; margin-right: 1px;"></a><a href="https://www.vegetariers.nl/disclaimer"><img alt="Creative Commons-Licentie" src="https://i.creativecommons.org/l/by/3.0/nl/88x31.png"></a></div>
+<div class="seo-payoff" style="width:110px;">
+	<a href="https://www.vegetariers.nl/disclaimer">Disclaimer</a><br>
+	<a href="https://www.vegetariers.nl/sitemap">Sitemap</a><br>
+	<a href="https://www.vegetariers.nl/cookieverklaring">Privacy- en cookieverklaring</a></div>
+
+            <div id="clearfooter"><!-- ie needs this --></div>
+		</div>
+        <div class="footer"><div id="payoff">Copyright &copy; 2018 NVB | Alle rechten voorbehouden | <a href="http://www.dreamit.nl/" onClick="window.open(this.href);return false;" title="ontwikkeld door Dream IT">ontwikkeld door <img width="18" height="12" src="https://www.vegetariers.nl/serverspecific/default/images/Template/dit.png" alt="Dream IT" style="margin:0 0 0 2px;"></a></div></div>
+        	</body>
+</html>

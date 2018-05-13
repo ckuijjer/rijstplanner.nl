@@ -1,0 +1,1 @@
+All recipes are taken from e.g. https://www.vegetariers.nl/lekker/recepten/gemarineerde-tempeh-met-rijst-en-groenten and are licensed under a Creative Commons Naamsvermelding 3.0 Nederland licentie, see https://creativecommons.org/licenses/by/3.0/nl/
